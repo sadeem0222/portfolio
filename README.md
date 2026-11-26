@@ -25,7 +25,7 @@ I enjoy exploring software quality, testing applications, and learning new techn
 
 - **Email:** sadharthi24@gmail.com
 - **GitHub:** https://github.com/sadeem0222
-- **LinkedIn:** Add your LinkedIn profile link here.
+- **LinkedIn:** https://www.linkedin.com/in/sadeem-alharthi-ab20262ab
 
 ## Live Portfolio
 
